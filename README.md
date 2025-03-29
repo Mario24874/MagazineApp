@@ -89,3 +89,12 @@ La solución en Java se basa en un problema clásico de algoritmos conocido como
 
 - El proyecto se desarrolló en Windows 10 con CMD, ya que PowerShell presentó problemas al interpretar el comando mvn archetype:generate. Se recomienda usar CMD para ejecutar comandos Maven en este entorno.
 - La interfaz gráfica usa JavaFX para proporcionar una experiencia interactiva al usuario.
+- Este proyecto se realizó en 4 horas.
+
+## Contribuciones
+
+Si deseas contribuir, crea un *pull request* en GitHub.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT (pendiente de agregar `LICENSE`).
